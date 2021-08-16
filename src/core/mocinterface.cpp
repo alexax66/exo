@@ -130,6 +130,7 @@ void MocInterface::showPlayer() {
                 QVector<QString> {
                     QStringLiteral("x-terminal-emulator"),
                     QStringLiteral("gnome-terminal"),
+                    QStringLiteral("mate-terminal"),
                     QStringLiteral("konsole"),
                     QStringLiteral("xfce4-terminal"),
                     QStringLiteral("lxterminal") });
